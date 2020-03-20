@@ -33,7 +33,7 @@
 | Links  | [web](https://htmlpreview.github.io/?https://github.com/smyckaj/Covid19/blob/master/eSIR.html), [code](https://github.com/smyckaj/Covid19) |
 | Presentation | static webpage, aims for interactive web app |
 | Geographical scope | Czech Republic |
-| Data         | ?? |
+| Data         | [wikipedia](https://cs.wikipedia.org/wiki/Pandemie_COVID-19_v_%C4%8Cesku) |
 | Model focus | SIR with observation layer, single spatial compartment  |
 | Uncertainty Quantification | stochastic SIR model, stochastic observation layer, Bayesian modeling, MCMC |
 
