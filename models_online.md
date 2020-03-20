@@ -75,4 +75,15 @@
 | Uncertainty Quantification | ?? |
 | Notes | |
 
+## IZS 
 
+| Model name  | |
+|----|----|
+| Language | Slovak |
+| Links  | [web](https://izp.sk/covid-19/), [code](https://github.com/institute-of-health-policies-sk/SIRmodel_COVID-19) |
+| Presentation | code, [pdf](https://izp.sk/wp-content/uploads/2020/03/predikcia_koronavirus_17.3.2020_2.pdf) |
+| Model focus | spatial modeling, mitigation analysis |
+| Geographical scope | Slovak Republic |
+| Data         | traffic between regions in Slovakia, case data, healthcare system stress |
+| Uncertainty Quantification | ??  |
+| Notes | Expecting update 23.3 |
