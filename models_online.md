@@ -61,3 +61,19 @@
 | Data         | cases in Italy, SK|
 | Uncertainty Quantification | None found |
 | Notes | |
+
+## COVID Act Now
+
+| Model name  | |
+|----|----|
+| Language | English |
+| Links  | [[web](https://covidactnow.org/
+), [code](https://docs.google.com/spreadsheets/d/1YEj4Vr6lG1jQ1R3LG6frijJYNynKcgTjzo2n0FsBwZA/edit#gid=1579455912) |
+| Presentation | static web page, code in google sheet |
+| Model focus | healthcare overload modelling, decision making |
+| Geographical scope | USA |
+| Data         |  [link](https://docs.google.com/spreadsheets/d/1YEj4Vr6lG1jQ1R3LG6frijJYNynKcgTjzo2n0FsBwZA/edit#gid=1583111774) |
+| Uncertainty Quantification | ?? |
+| Notes | |
+
+
