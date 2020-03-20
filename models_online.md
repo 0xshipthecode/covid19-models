@@ -34,8 +34,8 @@
 | Presentation | static webpage, aims for interactive web app |
 | Geographical scope | Czech Republic |
 | Data         | ?? |
-| Model focus | SIR, single spatial compartment |
-| Uncertainty Quantification | stochastic SIR model, Bayesian modeling, MCMC |
+| Model focus | SIR with observation layer, single spatial compartment  |
+| Uncertainty Quantification | stochastic SIR model, stochastic observation layer, Bayesian modeling, MCMC |
 
 ## Koronainfo
 
