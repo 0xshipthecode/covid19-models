@@ -22,5 +22,5 @@ See `model_template.md` for a template.
 
 ## Models
 
-- [Online models](online_models.md)
+- [Online models](models_online.md)
 - [Models in papers only](models_in_papers.md)
