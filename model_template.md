@@ -1,5 +1,3 @@
-
-
 | Model name  | |
 |----|----|
 | Language | |
@@ -9,3 +7,4 @@
 | Geographical scope | |
 | Data         | |
 | Uncertainty Quantification |  |
+| Notes | |

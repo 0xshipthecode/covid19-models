@@ -49,3 +49,15 @@
 | Model focus | SIR single compartment, observation bias |
 | Uncertainty Quantification | confidence interval on top of deterministic model, estimated parameters based on fit to data of other countries |
 
+## Dr Richarg Hsu, Dept. Chemistry, National Taiwan University
+
+| National Taiwan University | |
+|----|----|
+| Language | English |
+| Links  | [web](https://geneonline.news/en/2020/03/14/prediction-of-the-covid-19-outbreak-in-south-korea-and-italy/) |
+| Presentation | article, static web page|
+| Model focus | simplified SIR model |
+| Geographical scope | Italy, South Korea |
+| Data         | cases in Italy, SK|
+| Uncertainty Quantification | None found |
+| Notes | |
