@@ -13,10 +13,10 @@ Please fork the repository, add your contribution and send a PR.
 Please include at least:
 
 - links to a descriptive model webpage and to code if available
-- what effects are modeled?
-- what data the model uses
-- approach to uncertainty quantification in the model
-- group which is developing the model
+- which phenomena does the model focus on?
+- what key types of data are used by the model
+- how does the model handle uncertainty?
+- who is developing the model?
 
 See `model_template.md` for a template.
 
