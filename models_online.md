@@ -1,8 +1,6 @@
 # Models online
 
-## Neher lab (University of Basel)
-
-| Neher lab | |
+| Neher lab | University of Basel |
 | ------ | ----- |
 | Language | English |
 | Links | [web](https://neherlab.org/covid19), [code](https://github.com/neherlab/covid19_scenarios), [model info](https://neherlab.org/covid19/about)|
@@ -12,9 +10,7 @@
 | Data | age distributions, healthcare capacity [github](https://github.com/neherlab/covid19_scenarios_data) |
 | Uncertainty quantification | support for Poisson sampling during state computation |
 
-## Delphi group at Carnegie Mellon University
-
-| Delphi group | |
+| Delphi group | Carnegie Mellon University |
 |----|----|
 | Language | English |
 | Links  | [web](https://delphi.cmu.edu/) |
@@ -24,8 +20,6 @@
 | Data         | ?? |
 | Uncertainty Quantification | ?? |
 | Notes | Announced but not yet online, related [paper](https://delphi.cmu.edu/files/brooks2015.pdf)|
-
-## Jan Smyčka
 
 | Jan Smyčka ||
 |----|----|
@@ -37,21 +31,19 @@
 | Model focus | SIR with observation layer, single spatial compartment  |
 | Uncertainty Quantification | stochastic SIR model, stochastic observation layer, Bayesian modeling, MCMC |
 
-## Koronainfo
 
-| KoronaInfo/MFF UK | |
+| KoronaInfo | MFF UK |
 |----|----|
 | Language | Czech |
 | Links  | [web](https://koronainfo.cz/Predictions) |
 | Presentation | static web page |
 | Data         | [Ministry of Health CR](https://onemocneni-aktualne.mzcr.cz/covid-19), [worldometers](https://www.worldometers.info/coronavirus/) |
-| Geographical scope | Czech Republic, fitted to other countries |
+| Geographical scope | Czech Republic, uses data from other countries to fit parameters |
 | Model focus | SIR single compartment, observation bias |
 | Uncertainty Quantification | confidence interval on top of deterministic model, estimated parameters based on fit to data of other countries |
 
-## Dr Richarg Hsu, Dept. Chemistry, National Taiwan University
 
-| National Taiwan University | |
+| Dr Richard Hsu | National Taiwan University |
 |----|----|
 | Language | English |
 | Links  | [web](https://geneonline.news/en/2020/03/14/prediction-of-the-covid-19-outbreak-in-south-korea-and-italy/) |
@@ -62,9 +54,7 @@
 | Uncertainty Quantification | None found |
 | Notes | |
 
-## COVID Act Now
-
-| Model name  | |
+| COVID act now | |
 |----|----|
 | Language | English |
 | Links  | [web](https://covidactnow.org/), [code](https://docs.google.com/spreadsheets/d/1YEj4Vr6lG1jQ1R3LG6frijJYNynKcgTjzo2n0FsBwZA/edit#gid=1579455912) |
@@ -75,9 +65,8 @@
 | Uncertainty Quantification | ?? |
 | Notes | |
 
-## IZS 
 
-| Model name  | |
+|   | Inštitút zdravotnej politiky |
 |----|----|
 | Language | Slovak |
 | Links  | [web](https://izp.sk/covid-19/), [code](https://github.com/institute-of-health-policies-sk/SIRmodel_COVID-19) |
