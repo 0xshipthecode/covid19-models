@@ -6,7 +6,7 @@ Note: this is a *best-effort overview*, please help with corrections if you see 
 
 ## Contributions
 
-Please fork the repository, add your contribution and send a PR.
+Any help in identifying other modeling efforts is appreciated, especially model efforts in non-English languages. Please fork the repository, add your contribution and send a PR.
 
 ## Model information
 
