@@ -1,5 +1,16 @@
 # Models online
 
+| Epidemic calculator  | Gabriel Goh (OpenAI) |
+|----|----|
+| Language | English |
+| Links  | [web](https://gabgoh.github.io/COVID/index.html), [code](https://github.com/gabgoh/epcalc) |
+| Presentation | fully interactive model, running in browser |
+| Model focus | deterministic SEIR, hospitalized+fatal compartment |
+| Geographical scope | USA |
+| Data         | parameters in papers on website |
+| Uncertainty Quantification | None |
+| Notes | |
+
 | Neher lab | University of Basel |
 | ------ | ----- |
 | Language | English |
@@ -9,6 +20,8 @@
 | Geographical scope | Country/City |
 | Data | age distributions, healthcare capacity [github](https://github.com/neherlab/covid19_scenarios_data) |
 | Uncertainty quantification | support for Poisson sampling during state computation |
+
+https://gabgoh.github.io/COVID/index.html
 
 | Delphi group | Carnegie Mellon University |
 |----|----|
