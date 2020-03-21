@@ -20,7 +20,8 @@ Please include at least:
 
 See `model_template.md` for a template.
 
-## Models
+## Models & tools
 
 - [Online models](models_online.md)
 - [Models in papers only](models_in_papers.md)
+- [Modeling tools and libraries](modeling_tools_and_libraries.md)
