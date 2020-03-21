@@ -1,5 +1,18 @@
 # Models online
 
+| Penn Medicine hospital model  | |
+|----|----|
+| Language | English |
+| Links  | [web](https://penn-chime.phl.io/
+), [code](https://github.com/pennsignals/chime) |
+| Presentation | interactive streamlit web app |
+| Model focus | pressure analysis for hospital |
+| Geographical scope | USA regions/hospital catchment areas |
+| Data         |  |
+| Uncertainty Quantification | None, deterministic simulation |
+| Notes | |
+
+
 | Epidemic calculator  | Gabriel Goh (OpenAI) |
 |----|----|
 | Language | English |
