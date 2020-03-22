@@ -1,5 +1,7 @@
 # Models online
 
+## English language
+
 | Penn Medicine hospital model  | |
 |----|----|
 | Language | English |
@@ -23,6 +25,7 @@
 | Uncertainty Quantification | None |
 | Notes | |
 
+
 | Neher lab | University of Basel |
 | ------ | ----- |
 | Language | English |
@@ -33,7 +36,30 @@
 | Data | age distributions, healthcare capacity [github](https://github.com/neherlab/covid19_scenarios_data) |
 | Uncertainty quantification | support for Poisson sampling during state computation |
 
-https://gabgoh.github.io/COVID/index.html
+
+| Dr Richard Hsu | National Taiwan University |
+|----|----|
+| Language | English |
+| Links  | [web](https://geneonline.news/en/2020/03/14/prediction-of-the-covid-19-outbreak-in-south-korea-and-italy/) |
+| Presentation | article, static web page|
+| Model focus | simplified SIR model |
+| Geographical scope | Italy, South Korea |
+| Data         | cases in Italy, SK|
+| Uncertainty Quantification | None found |
+| Notes | |
+
+
+| COVID act now | |
+|----|----|
+| Language | English |
+| Links  | [web](https://covidactnow.org/), [code](https://docs.google.com/spreadsheets/d/1YEj4Vr6lG1jQ1R3LG6frijJYNynKcgTjzo2n0FsBwZA/edit#gid=1579455912) |
+| Presentation | static web page, code in google sheet |
+| Model focus | healthcare overload modelling, decision making |
+| Geographical scope | USA |
+| Data         |  population, case data, [link](https://docs.google.com/spreadsheets/d/1YEj4Vr6lG1jQ1R3LG6frijJYNynKcgTjzo2n0FsBwZA/edit#gid=1583111774) |
+| Uncertainty Quantification | ?? |
+| Notes | |
+
 
 | Delphi group | Carnegie Mellon University |
 |----|----|
@@ -45,6 +71,21 @@ https://gabgoh.github.io/COVID/index.html
 | Data         | ?? |
 | Uncertainty Quantification | ?? |
 | Notes | Announced but not yet online, related [paper](https://delphi.cmu.edu/files/brooks2015.pdf)|
+
+## Czech/Slovak language
+
+
+|   | Inštitút zdravotnej politiky |
+|----|----|
+| Language | Slovak |
+| Links  | [web](https://izp.sk/covid-19/), [code](https://github.com/institute-of-health-policies-sk/SIRmodel_COVID-19) |
+| Presentation | code, [pdf](https://izp.sk/wp-content/uploads/2020/03/predikcia_koronavirus_17.3.2020_2.pdf) |
+| Model focus | spatial modeling, mitigation analysis |
+| Geographical scope | Slovak Republic |
+| Data         | traffic between regions in Slovakia, case data, healthcare system stress |
+| Uncertainty Quantification | ??  |
+| Notes | Expecting update 23.3 |
+
 
 | Jan Smyčka ||
 |----|----|
@@ -68,36 +109,15 @@ https://gabgoh.github.io/COVID/index.html
 | Uncertainty Quantification | confidence interval on top of deterministic model, estimated parameters based on fit to data of other countries |
 
 
-| Dr Richard Hsu | National Taiwan University |
+## German
+
+| CovidSIM  | |
 |----|----|
-| Language | English |
-| Links  | [web](https://geneonline.news/en/2020/03/14/prediction-of-the-covid-19-outbreak-in-south-korea-and-italy/) |
-| Presentation | article, static web page|
-| Model focus | simplified SIR model |
-| Geographical scope | Italy, South Korea |
-| Data         | cases in Italy, SK|
+| Language | German |
+| Links  | [web](http://covidsim.eu/) |
+| Presentation | interactive web page, no code links |
+| Model focus |  severity progression, mitigation, observation modeling |
+| Geographical scope | Not specified, works with one compartment |
+| Data         | Epidemiological findings, user input |
 | Uncertainty Quantification | None found |
 | Notes | |
-
-| COVID act now | |
-|----|----|
-| Language | English |
-| Links  | [web](https://covidactnow.org/), [code](https://docs.google.com/spreadsheets/d/1YEj4Vr6lG1jQ1R3LG6frijJYNynKcgTjzo2n0FsBwZA/edit#gid=1579455912) |
-| Presentation | static web page, code in google sheet |
-| Model focus | healthcare overload modelling, decision making |
-| Geographical scope | USA |
-| Data         |  population, case data, [link](https://docs.google.com/spreadsheets/d/1YEj4Vr6lG1jQ1R3LG6frijJYNynKcgTjzo2n0FsBwZA/edit#gid=1583111774) |
-| Uncertainty Quantification | ?? |
-| Notes | |
-
-
-|   | Inštitút zdravotnej politiky |
-|----|----|
-| Language | Slovak |
-| Links  | [web](https://izp.sk/covid-19/), [code](https://github.com/institute-of-health-policies-sk/SIRmodel_COVID-19) |
-| Presentation | code, [pdf](https://izp.sk/wp-content/uploads/2020/03/predikcia_koronavirus_17.3.2020_2.pdf) |
-| Model focus | spatial modeling, mitigation analysis |
-| Geographical scope | Slovak Republic |
-| Data         | traffic between regions in Slovakia, case data, healthcare system stress |
-| Uncertainty Quantification | ??  |
-| Notes | Expecting update 23.3 |
