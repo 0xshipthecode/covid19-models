@@ -72,6 +72,18 @@
 | Uncertainty Quantification | ?? |
 | Notes | Announced but not yet online, related [paper](https://delphi.cmu.edu/files/brooks2015.pdf)|
 
+| CovidSIM  | Tuebingen, Germany |
+|----|----|
+| Language | German |
+| Links  | [web](http://covidsim.eu/) |
+| Presentation | interactive web page, no code links |
+| Model focus |  severity progression, mitigation, observation modeling |
+| Geographical scope | Not specified, works with one compartment |
+| Data         | Epidemiological findings, user input |
+| Uncertainty Quantification | None found |
+| Notes | |
+
+
 ## Czech/Slovak language
 
 
@@ -107,17 +119,3 @@
 | Geographical scope | Czech Republic, uses data from other countries to fit parameters |
 | Model focus | SIR single compartment, observation bias |
 | Uncertainty Quantification | confidence interval on top of deterministic model, estimated parameters based on fit to data of other countries |
-
-
-## German
-
-| CovidSIM  | |
-|----|----|
-| Language | German |
-| Links  | [web](http://covidsim.eu/) |
-| Presentation | interactive web page, no code links |
-| Model focus |  severity progression, mitigation, observation modeling |
-| Geographical scope | Not specified, works with one compartment |
-| Data         | Epidemiological findings, user input |
-| Uncertainty Quantification | None found |
-| Notes | |
