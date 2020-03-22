@@ -72,16 +72,16 @@
 | Uncertainty Quantification | ?? |
 | Notes | Announced but not yet online, related [paper](https://delphi.cmu.edu/files/brooks2015.pdf)|
 
-| CovidSIM  | Tuebingen, Germany |
+| CovidSIM  | ExploSYS GmbH |
 |----|----|
-| Language | German |
-| Links  | [web](http://covidsim.eu/) |
+| Language | English |
+| Links  | [web](http://covidsim.eu/), [code](https://gitlab.com/exploratory-systems/covidsim/) |
 | Presentation | interactive web page, no code links |
-| Model focus |  severity progression, mitigation, observation modeling |
-| Geographical scope | Not specified, works with one compartment |
+| Model focus | Pandemic Preparedness Planning |
+| Geographical scope | Not specified, single compartment model |
 | Data         | Epidemiological findings, user input |
 | Uncertainty Quantification | None found |
-| Notes | |
+| Notes | Developed in cooperation with Landgesundheitsamt (State health authority) Stuttgart |
 
 
 ## Czech/Slovak language
