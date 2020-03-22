@@ -99,7 +99,7 @@
 | Notes | Expecting update 23.3 |
 
 
-| Jan Smyčka ||
+| eSIR on Czech data ||
 |----|----|
 | Language | Czech |
 | Links  | [web](https://htmlpreview.github.io/?https://github.com/smyckaj/Covid19/blob/master/eSIR.html), [code](https://github.com/smyckaj/Covid19) |
