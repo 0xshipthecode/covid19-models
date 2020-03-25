@@ -84,6 +84,17 @@
 | Notes | Developed in cooperation with Landgesundheitsamt (State health authority) Stuttgart |
 
 
+| Alphamoon.ai  | |
+|----|----|
+| Language | English |
+| Links  | [web](https://alphamoon.ai/blog/2020/03/24/how-to-predict-the-future-of-sars-cov-2-pandemic/), [code]() |
+| Presentation | web scenarios, not interactive |
+| Model focus | extended SEIR with asymptomatic class, mitigation analysis |
+| Geographical scope | Poland |
+| Data         | Poland case data |
+| Uncertainty Quantification | Approximate Bayesian Computation  |
+| Notes | |
+
 ## Czech/Slovak language
 
 
