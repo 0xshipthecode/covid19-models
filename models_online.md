@@ -103,9 +103,9 @@
 | Presentation | web scenarios, interactive |
 | Model focus | mitigation analysis focusing on specific containment measures |
 | Geographical scope | per country |
-| Data         | Aggreggated data |
+| Data         | aggreggated data |
 | Uncertainty Quantification | multiple GLEAMviz simulations with predefined parameters |
-| Notes | Working with epidemiologists across many countries |
+| Notes | working with epidemiologists across many countries |
 
 ## Czech/Slovak language
 
