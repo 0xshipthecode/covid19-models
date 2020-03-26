@@ -95,6 +95,18 @@
 | Uncertainty Quantification | Approximate Bayesian Computation  |
 | Notes | |
 
+
+| EpidemicForecasting.org | |
+|----|----|
+| Language | English |
+| Links  | [web](http://epidemicforecasting.org/) |
+| Presentation | web scenarios, interactive |
+| Model focus | mitigation analysis focusing on specific containment measures |
+| Geographical scope | per country |
+| Data         | aggreggated data |
+| Uncertainty Quantification | multiple GLEAMviz simulations with predefined parameters |
+| Notes | working with epidemiologists across many countries |
+
 ## Czech/Slovak language
 
 
