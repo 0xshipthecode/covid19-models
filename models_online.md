@@ -102,10 +102,10 @@
 | Links  | [web](http://epidemicforecasting.org/) |
 | Presentation | web scenarios, interactive |
 | Model focus | mitigation analysis focusing on specific containment measures |
-| Geographical scope | Per Country |
-| Data         |  |
+| Geographical scope | per country |
+| Data         | Aggreggated data |
 | Uncertainty Quantification | multiple GLEAMviz simulations with predefined parameters |
-| Notes | |
+| Notes | Working with epidemiologists across many countries |
 
 ## Czech/Slovak language
 
