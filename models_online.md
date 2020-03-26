@@ -95,6 +95,18 @@
 | Uncertainty Quantification | Approximate Bayesian Computation  |
 | Notes | |
 
+
+| EpidemicForecasting.org | |
+|----|----|
+| Language | English |
+| Links  | [web](http://epidemicforecasting.org/), [code]() |
+| Presentation | web scenarios, interactive |
+| Model focus | extended SEIR with asymptomatic class, mitigation analysis |
+| Geographical scope | Per Country |
+| Data         |  |
+| Uncertainty Quantification | multiple GLEAMviz simulations with predefined parameters |
+| Notes | |
+
 ## Czech/Slovak language
 
 
