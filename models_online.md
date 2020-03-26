@@ -99,9 +99,9 @@
 | EpidemicForecasting.org | |
 |----|----|
 | Language | English |
-| Links  | [web](http://epidemicforecasting.org/), [code]() |
+| Links  | [web](http://epidemicforecasting.org/) |
 | Presentation | web scenarios, interactive |
-| Model focus | extended SEIR with asymptomatic class, mitigation analysis |
+| Model focus | mitigation analysis focusing on specific containment measures |
 | Geographical scope | Per Country |
 | Data         |  |
 | Uncertainty Quantification | multiple GLEAMviz simulations with predefined parameters |
