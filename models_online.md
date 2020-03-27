@@ -107,6 +107,19 @@
 | Uncertainty Quantification | multiple GLEAMviz simulations with predefined parameters |
 | Notes | working with epidemiologists across many countries |
 
+
+| covid19dashboards  | |
+|----|----|
+| Language | English |
+| Links  | [web](https://covid19dashboards.com/) |
+| Presentation | web |
+| Model focus | exploratory data analysis, forecasting |
+| Geographical scope | varies |
+| Data         | varies |
+| Uncertainty Quantification |  varies, Bayesian treatment typically |
+| Notes | This site aggregates many Jupyter notebooks with various models focusing on different phenomena.|
+
+
 ## Czech/Slovak language
 
 
